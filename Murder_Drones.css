@@ -48,7 +48,7 @@ body {
 
     /* background image options */
     --background-image: on; /* off: no background image, on: enable background image (must set url variable below) */
-    --background-image-url: url('https://raw.githubusercontent.com/Maenyok/maenyok-theme/refs/heads/main/i-accidentally-got-this-screenshot-and-i-cant-stop-laughing-v0-ommkdbedsbnd1.png'); /* url of the background image */
+    --background-image-url: url('https://raw.githubusercontent.com/Maenyok/maenyok-theme/refs/heads/main/V_doing_le_funny.png'); /* url of the background image */
 
     /* transparency/blur options */
     /* NOTE: TO USE TRANSPARENCY/BLUR, YOU MUST HAVE TRANSPARENT BG COLORS. FOR EXAMPLE: --bg-4: hsla(220, 15%, 10%, 0.7); */
@@ -144,4 +144,5 @@ body {
     --purple-3: oklch(65% 0.11 310);
     --purple-4: oklch(60% 0.11 310);
     --purple-5: oklch(55% 0.11 310);
+
 }
